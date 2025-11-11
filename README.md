@@ -1,0 +1,2 @@
+# AkilliTrafik
+Bitirme projesi
